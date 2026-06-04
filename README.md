@@ -4,21 +4,16 @@
 [![Linkedin](https://img.shields.io/badge/cadugoncalves-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadugoncalves)
 [![GitHub](https://img.shields.io/github/followers/cadu-goncalves?label=follow&style=social)](https://github.com/cadu-goncalves)
 
+<img align='right' src="coder.png" width="330">
+
+About me
 ```lua
-local function aboutMe(name, languages, hobbies)
-    print(string.format([[
-Hi I'm %s.
-- I ❤️ programing in %s
-- My personal interests include:
-  %s]], name, table.concat(languages, ", "), table.concat(hobbies, "\n  ")))
-end
-
-aboutMe(
-    "Carlos Gonçalves",
-    {"Java", "Kotlin", "C", "Lua"},
-    {"🐠 Aquarium", "💡 Electronics"}
-)
-
+local me = {
+    name = "Carlos Gonçalves",
+    languages = {"Java", "Kotlin", "C", "Lua"},
+    skills = {"DDD", "Microservices", "REST", "IoT"},
+    hobbies = {"🐠 Aquarium", "💡 Electronics"}
+}
 ```
 
 ## 🚀 Main Projects
@@ -53,3 +48,5 @@ aboutMe(
     </td>
   </tr>
 </table>
+
+
