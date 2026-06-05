@@ -50,34 +50,6 @@ local me = {
 </table>
 
 ## 👦🏼 My other profiles:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/carlos-goncalves-gympass">
-          <img src="https://images.weserv.nl/?url=github.com/carlos-goncalves-gympass.png&w=130&h=130&mask=circle" width="130px;" alt="carlos-goncalves-gympass"/><br />
-          <sub><b>carlos-goncalves-gympass</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="middle" width="50px">
-        <span style="font-size: 20px; color: #8b949e;">...............</span>
-      </td>
-      <td align="center">
-        <a href="https://github.com/carloseg-axur">
-          <img src="https://images.weserv.nl/?url=github.com/carloseg-axur.png&w=130&h=130&mask=circle" width="130px;" alt="carloseg-axur"/><br />
-          <sub><b>carloseg-axur</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="middle" width="50px">
-        <span style="font-size: 20px; color: #8b949e;">...............</span>
-      </td>
-      <td align="center">
-        <a href="https://github.com/carloseg-fl">
-          <img  src="https://images.weserv.nl/?url=github.com/carloseg-fl.png&w=130&h=130&mask=circle"  width="130px;" alt="carloseg-fl"/><br />
-          <sub><b>carloseg-fl</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- https://github.com/carlos-goncalves-gympass
+- https://github.com/carloseg-axur
+- https://github.com/carloseg-fl
