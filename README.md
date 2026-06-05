@@ -56,7 +56,7 @@ local me = {
     <tr>
       <td align="center">
         <a href="https://github.com/carlos-goncalves-gympass">
-          <img class="avatar avatar-user" src="https://github.com/carlos-goncalves-gympass.png" width="130px;" alt="carlos-goncalves-gympass"/><br />
+          <img src="https://images.weserv.nl/?url=github.com/carlos-goncalves-gympass.png&w=130&h=130&mask=circle" width="130px;" alt="carlos-goncalves-gympass"/><br />
           <sub><b>carlos-goncalves-gympass</b></sub>
         </a>
       </td>
@@ -65,7 +65,7 @@ local me = {
       </td>
       <td align="center">
         <a href="https://github.com/carloseg-axur">
-          <img class="avatar avatar-user" src="https://github.com/carloseg-axur.png" width="130px;" alt="carloseg-axur"/><br />
+          <img src="https://images.weserv.nl/?url=github.com/carloseg-axur.png&w=130&h=130&mask=circle" width="130px;" alt="carloseg-axur"/><br />
           <sub><b>carloseg-axur</b></sub>
         </a>
       </td>
@@ -74,7 +74,7 @@ local me = {
       </td>
       <td align="center">
         <a href="https://github.com/carloseg-fl">
-          <img class="avatar avatar-user"  src="https://github.com/carloseg-fl.png?size=130"  width="130px;" alt="carloseg-fl"/><br />
+          <img  src="https://images.weserv.nl/?url=github.com/carloseg-fl.png&w=130&h=130&mask=circle"  width="130px;" alt="carloseg-fl"/><br />
           <sub><b>carloseg-fl</b></sub>
         </a>
       </td>
