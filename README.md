@@ -1,6 +1,6 @@
 
 ## Hi 👋
-<img align='right' src="coder.png" width="310">
+<img align='right' src="coder.png" width="290">
 
 [![Linkedin](https://img.shields.io/badge/cadugoncalves-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadugoncalves)
 [![GitHub](https://img.shields.io/github/followers/cadu-goncalves?label=follow&style=social)](https://github.com/cadu-goncalves)
@@ -43,7 +43,7 @@ local me = {
     <!-- CARD 4 -->
     <td valign="top" width="50%">
       <a href="https://github.com/etriphany/esp-wifire" target="_blank">
-        <img src="https://opengraph.githubassets.com/1/etriphany/esp-wifire" alt="Pure Bash Bible" width="100%" />
+        <img src="https://opengraph.githubassets.com/1/etriphany/esp-wifire" alt="ESP Wifire" width="100%" />
       </a>
     </td>
   </tr>
