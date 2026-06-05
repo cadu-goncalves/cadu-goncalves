@@ -54,27 +54,27 @@ local me = {
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://github.com/carlos-goncalves-gympass">
-          <img src="https://github.com/carlos-goncalves-gympass.png" width="130px;" style="border-radius: 50%;" alt="carlos-goncalves-gympass"/><br />
+          <img src="https://github.com/carlos-goncalves-gympass.png?size=130" width="130" height="130" alt="carlos-goncalves-gympass" style="border-radius:50%; max-width:100%;" /><br />
           <sub><b>carlos-goncalves-gympass</b></sub>
         </a>
       </td>
-      <td align="center" valign="middle" width="50px">
-        <span style="font-size: 20px; color: #8b949e;">...............</span>
+      <td align="center" valign="middle" width="50">
+        <font color="#8b949e" size="5">......</font>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://github.com/carloseg-axur">
-          <img src="https://github.com/carloseg-axur.png" width="130px;" style="border-radius: 50%;" alt="carloseg-axur"/><br />
+          <img src="https://github.com/carloseg-axur.png?size=130" width="130" height="130" alt="carloseg-axur" style="border-radius:50%; max-width:100%;" /><br />
           <sub><b>carloseg-axur</b></sub>
         </a>
       </td>
-      <td align="center" valign="middle" width="50px">
-        <span style="font-size: 20px; color: #8b949e;">...............</span>
+      <td align="center" valign="middle" width="50">
+        <font color="#8b949e" size="5">......</font>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://github.com/carloseg-fl">
-          <img src="https://github.com/carloseg-fl.png" width="130px;" style="border-radius: 50%;" alt="carloseg-fl"/><br />
+          <img src="https://github.com/carloseg-fl.png?size=130" width="130" height="130" alt="carloseg-fl" style="border-radius:50%; max-width:100%;" /><br />
           <sub><b>carloseg-fl</b></sub>
         </a>
       </td>
