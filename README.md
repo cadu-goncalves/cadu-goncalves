@@ -4,8 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/cadugoncalves-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadugoncalves)
 [![GitHub](https://img.shields.io/github/followers/cadu-goncalves?label=follow&style=social)](https://github.com/cadu-goncalves)
 
-
-<img src="coder.png" width="310" style="float: right; margin-left: 20px; max-width: 100%; height: auto;">
+<img align='right' src="coder.png" width="280">
 
 About me
 ```lua
