@@ -49,4 +49,35 @@ local me = {
   </tr>
 </table>
 
+## 👦🏼 My other profiles:
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/carlos-goncalves-gympass">
+          <img src="https://github.com/carlos-goncalves-gympass.png" width="130px;" style="border-radius: 50%;" alt="carlos-goncalves-gympass"/><br />
+          <sub><b>carlos-goncalves-gympass</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="middle" width="50px">
+        <span style="font-size: 20px; color: #8b949e;">...............</span>
+      </td>
+      <td align="center">
+        <a href="https://github.com/carloseg-axur">
+          <img src="https://github.com/carloseg-axur.png" width="130px;" style="border-radius: 50%;" alt="carloseg-axur"/><br />
+          <sub><b>carloseg-axur</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="middle" width="50px">
+        <span style="font-size: 20px; color: #8b949e;">...............</span>
+      </td>
+      <td align="center">
+        <a href="https://github.com/carloseg-fl">
+          <img src="https://github.com/carloseg-fl.png" width="130px;" style="border-radius: 50%;" alt="carloseg-fl"/><br />
+          <sub><b>carloseg-fl</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
